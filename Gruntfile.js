@@ -323,7 +323,7 @@ module.exports = function (grunt) {
             options: {
                 base: 'dist',
                 branch: 'gh-pages',
-                repo: 'https://github.com/initiummedia/DPRK-test.git'
+                repo: 'https://github.com/initiumlab/DPRK-test.git'
             },
             src: '**/*'
         },
